@@ -4,23 +4,20 @@ The following are the comments received from examiners.
 
 ### Comments from Sanjay Swain
 
-1. <div class="text-purple">
-  P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?
-</div>
-<div class="text-green mb-2 ml-4">
-  This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
-</div>
+1. P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?
 
-- P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
-- P11. Table 2.2: Is there reason why range of weak interaction (10^-16) is smaller than the one mentioned below (which is for strong interaction ~ 10 ^-13 as shown by you) ?
-- P12: What is meaning of unification ? The three couplings should be exactly same or they should be related or something else ? 
-- P12: well, its not a new problem. The electron is lighter than protons and needed some explanation why ? It was raised by Dirac.
-- P15. Eq. 3.1: This equation itself, does it solve hierarchy problem ?
-- P16: replace “sfermions” by “as sfermions” ?
-- P16: Where is the neutralino and charginos in the list ?
-- P16: why it MUST be broken ?
-- P17. Table 3.1:  think you should mention what each column represent in the below table ? For example what is S ?  Spin ? Always good to mentions the details of the table in caption.
-- P17: “and s is the spin of a particle.” which particle ? SUSY or SM particles ?
+  This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
+
+2. P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
+3. P11. Table 2.2: Is there reason why range of weak interaction (10^-16) is smaller than the one mentioned below (which is for strong interaction ~ 10 ^-13 as shown by you) ?
+4. P12: What is meaning of unification ? The three couplings should be exactly same or they should be related or something else ? 
+5. P12: well, its not a new problem. The electron is lighter than protons and needed some explanation why ? It was raised by Dirac.
+6. P15. Eq. 3.1: This equation itself, does it solve hierarchy problem ?
+7. P16: replace “sfermions” by “as sfermions” ?
+8. P16: Where is the neutralino and charginos in the list ?
+9. P16: why it MUST be broken ?
+10. P17. Table 3.1:  think you should mention what each column represent in the below table ? For example what is S ?  Spin ? Always good to mentions the details of the table in caption.
+11. P17: “and s is the spin of a particle.” which particle ? SUSY or SM particles ?
 
 
 ### Comments from Bill Ford
