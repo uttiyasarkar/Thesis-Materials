@@ -4,7 +4,7 @@ The following are the comments received from examiners.
 
 ### Comments from Sanjay Swain
 
-<p>1. P8: Why v is there ? Isn’t supposed to be normalized state of (&phi1 +/- &phi2)?</p>
+<p>1. P8: Why v is there ? Isn’t supposed to be normalized state of (&phi 1 +/- &phi 2)?</p>
 %BLUE%
 This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion.
 2. P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
