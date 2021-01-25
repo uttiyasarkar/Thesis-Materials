@@ -4,11 +4,11 @@ The following are the comments received from examiners.
 
 ### Comments from Sanjay Swain
 
-- <div class="text-purple">
+1. <div class="text-purple">
   P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?
 </div>
 <div class="text-green mb-2 ml-4">
-  This expression of field is at the ground state where the energy is minimum. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
+  This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
 </div>
 
 - P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
@@ -25,7 +25,8 @@ The following are the comments received from examiners.
 
 ### Comments from Bill Ford
 
-1. p. 8, next-to-last paragraph, last line: “when 𝜃=0”, or any other specific value?
+1. p. 8, next-to-last paragraph, last line: “when 𝜃=0”, or any other specific value? 
+Yes it is at 𝜃=0, i.e. after SSB, the expression of the field.
 2. p. 9, next-to-last sentence of 2.2.1: a “theorem” is not a “method”.
 3. p. 10, sentence between Eqs. (2.12-2.13): “This clearly indicates”: may be help the reader a bit with something like “the field-independent coefficient of WW and (1/2)ZZ [I leave the super- and subscripts to be filled in] gives the squared mass of the W and Z boson, respectively”.
 Table 2.2: Cite PDG or other sources for the numerical values.
