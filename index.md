@@ -4,9 +4,9 @@ The following are the comments received from examiners.
 
 ### Comments from Sanjay Swain
 
-1. P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?
-
-  This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
+<p>1. P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?</p>
+<p>%BLUE%
+This expression of field is at the ground state where the energy is minimum after SSB. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. </p>
 
 2. P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
 3. P11. Table 2.2: Is there reason why range of weak interaction (10^-16) is smaller than the one mentioned below (which is for strong interaction ~ 10 ^-13 as shown by you) ?
