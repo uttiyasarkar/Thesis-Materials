@@ -4,9 +4,13 @@ The following are the comments received from examiners.
 
 ### Comments from Sanjay Swain
 
-- P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2) ?</p>
-  Correct. It is a typo. Fixed
-  
+- <div class="text-purple">
+  P8: Why v is there ? Isn’t supposed to be normalized state of (phi_1 +/- phi_2)?
+</div>
+<div class="text-green mb-2 ml-4">
+  This expression of field is at the ground state where the energy is minimum. So, \phi_1 is v and \phi_2 is zero. I have changed the field notation to \eta and \xi to avoid confusion. 
+</div>
+
 - P11. Table 2.1: How do you experimentally measure the charge of quarks ? For that matter even how to experimentally find our quark have spin=1/2 and has 3 colours ?
 - P11. Table 2.2: Is there reason why range of weak interaction (10^-16) is smaller than the one mentioned below (which is for strong interaction ~ 10 ^-13 as shown by you) ?
 - P12: What is meaning of unification ? The three couplings should be exactly same or they should be related or something else ? 
@@ -20,10 +24,7 @@ The following are the comments received from examiners.
 
 
 ### Comments from Bill Ford
-.bold-text {
-  color: green;
-  font-weight: bold;
-}
+
 1. p. 8, next-to-last paragraph, last line: “when 𝜃=0”, or any other specific value?
 2. p. 9, next-to-last sentence of 2.2.1: a “theorem” is not a “method”.
 3. p. 10, sentence between Eqs. (2.12-2.13): “This clearly indicates”: may be help the reader a bit with something like “the field-independent coefficient of WW and (1/2)ZZ [I leave the super- and subscripts to be filled in] gives the squared mass of the W and Z boson, respectively”.
